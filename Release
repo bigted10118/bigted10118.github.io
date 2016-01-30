@@ -1,0 +1,9 @@
+Orign: BigTed's Repo
+Label: BigTed's Repo
+Suite: stable
+Version: 1.0
+Codename: BigTed
+Architecures: iphoneos.arm
+Components: main
+Description: BigTed's Repo
+MD5Sum:
