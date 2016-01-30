@@ -1,9 +1,9 @@
-Orign: BigTed's Repo
-Label: BigTed's Repo
+Origin: bigtedt10118's Cydia Repo
+Label: bigtedt10118's Cydia Repo
 Suite: stable
 Version: 1.0
-Codename: BigTed
-Architecures: iphoneos.arm
+Codename: INSERTCODENAMEHERE
+Architectures: iphoneos-arm
 Components: main
-Description: BigTed's Repo
-MD5Sum:
+Description: bigtedt10118's Cydia Repo
+Icon: file://CydiaIcon.png
