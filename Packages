@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Yourname ricky.bywater@gmail.com
 Depends: <bundleids>
-Filename: .//debs/com.bigted10118.flymecharge.deb
+Filename: ./debs/com.bigted10118.flymecharge.deb
 Size: 68250
 MD5sum: 5FD38F2F83B84B3BF16E9FC70146A332
 SHA1: 47E8C1C6098D33BCFB48FAD3123CE661E4501E85
@@ -11,5 +11,5 @@ SHA256: 3788344DCDB95ACD6BE5E3F983240CBC2D9AEBE9AC540D6B85E19A890C8201F2
 Section: Front
 Description: Flyme Charge - Lockscreen Battery
 Author: Yourname <ricky.bywater@gmail.com>
-Depiction: http://bigtedt10118.github.io/Depic/<depicfoldername>/index.html
+Depiction: ./Depic/index.html
 Name: Flyme Charge - Lockscreen Battery
