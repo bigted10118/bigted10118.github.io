@@ -1,5 +1,5 @@
-Package: <package>
-Version: <version>
+Package: Flyme Charge
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Yourname ricky.bywater@gmail.com
 Depends: <bundleids>
